@@ -1,2 +1,2 @@
 # WPF-ejemplos
-Repositorio con la finalidad de mostar la tecnologia WPF y sus componentes
+Este repositorio abarca los ejemplos propuestos para cada tipo de control, y la demostracion de las diferencias de windows forms y WPF.
