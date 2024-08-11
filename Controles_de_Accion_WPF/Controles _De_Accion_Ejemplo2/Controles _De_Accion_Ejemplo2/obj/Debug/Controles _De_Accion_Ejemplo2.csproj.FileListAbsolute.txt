@@ -1,0 +1,9 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\bin\Debug\Controles _De_Accion_Ejemplo2.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\bin\Debug\Controles _De_Accion_Ejemplo2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\bin\Debug\Controles _De_Accion_Ejemplo2.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles__De_Accion_Ejemplo2.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles__De_Accion_Ejemplo2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles _De_Accion_Ejemplo2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles _De_Accion_Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles _De_Accion_Ejemplo2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Teoria\Controles _De_Accion_Ejemplo2\Controles _De_Accion_Ejemplo2\obj\Debug\Controles _De_Accion_Ejemplo2.pdb
