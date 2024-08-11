@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF-presentationDataControls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2b6fb71a2d6c06ad3cca2a4ef35e94dde95823")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec16ef96648101655209327c026a96c300b3455c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF-presentationDataControls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF-presentationDataControls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

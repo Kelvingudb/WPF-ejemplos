@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj": {}
+    "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj": {}
   },
   "projects": {
-    "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj": {
+    "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj",
+        "projectUniqueName": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj",
         "projectName": "WPF-presentationDataControls",
-        "projectPath": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\obj\\",
+        "projectPath": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\WPF-presentationDataControls.csproj",
+        "packagesPath": "C:\\Users\\Kelvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
