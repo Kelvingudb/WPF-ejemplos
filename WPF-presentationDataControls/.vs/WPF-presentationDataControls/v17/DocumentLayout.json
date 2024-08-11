@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\",
+  "WorkspaceRootPath": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|c:\\users\\kelvin\\desktop\\kelvin-udb\\wpf-ejemplos\\wpf-presentationdatacontrols\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|d:\\luis\\documents\\github\\wpf-ejemplos\\wpf-presentationdatacontrols\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|c:\\users\\kelvin\\desktop\\kelvin-udb\\wpf-ejemplos\\wpf-presentationdatacontrols\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|d:\\luis\\documents\\github\\wpf-ejemplos\\wpf-presentationdatacontrols\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1930D48F-3400-4E82-AEDC-ACAF6DE48995}|WPF-presentationDataControls.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml",
+              "ToolTip": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-02T18:44:50.582Z",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Kelvin-UDB\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Luis\\Documents\\GitHub\\WPF-ejemplos\\WPF-presentationDataControls\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:44:46.62Z",
               "EditorCaption": ""
