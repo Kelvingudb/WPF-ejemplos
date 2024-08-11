@@ -1,0 +1,17 @@
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.csproj.AssemblyReference.cache
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\MainWindow.g.cs
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\App.g.cs
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto_MarkupCompile.cache
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto_MarkupCompile.lref
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\MainWindow.baml
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.g.resources
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.Properties.Resources.resources
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.csproj.GenerateResource.cache
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.csproj.CoreCompileInputs.cache
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\bin\Debug\controles_de_edicion_de_texto.exe.config
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\bin\Debug\controles_de_edicion_de_texto.exe
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\bin\Debug\controles_de_edicion_de_texto.pdb
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.exe
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\controles_de_edicion_de_texto.pdb
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\Window2.g.cs
+D:\Luis\Desktop\DSP TEORICO\controles_de_edicion_de_texto\obj\Debug\Window2.baml

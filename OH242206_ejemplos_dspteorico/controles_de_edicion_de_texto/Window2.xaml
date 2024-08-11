@@ -1,0 +1,18 @@
+﻿<Window x:Class="controles_de_edicion_de_texto.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:controles_de_edicion_de_texto"
+        mc:Ignorable="d"
+        Title="RichTextBox" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Button Content="Negrita" Click="BoldButton_Click" Width="70"/>
+                <Button Content="Cursiva" Click="ItalicButton_Click" Width="70" Margin="10,0,0,0"/>
+            </StackPanel>
+            <RichTextBox Name="SimpleRichTextBox" Margin="10" Height="150"/>
+        </StackPanel>
+    </Grid>
+</Window>
