@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WPF-presentationDataControls")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WPF-DesignerControlsExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a210b6afe20f4b0a988df90ad3bed0b95a59c03")]
-[assembly: System.Reflection.AssemblyProductAttribute("WPF-presentationDataControls")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WPF-presentationDataControls")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1dab1eb87eba522bac68421919f1561b80bcae")]
+[assembly: System.Reflection.AssemblyProductAttribute("WPF-DesignerControlsExample")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WPF-DesignerControlsExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
